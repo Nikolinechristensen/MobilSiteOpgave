@@ -1,0 +1,89 @@
+body {
+  background-color: hsl(74, 76%, 75%);
+}
+h2,
+h1,
+h3 {
+  color: bisque;
+  background-color: rgb(78, 00, 42);
+  border-radius: 10px;
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  background-color: hsl(74, 76%, 75%);
+  color: rgb(78, 00, 42);
+}
+h3 {
+  background-color: rgb(234, 255, 165);
+  color: rgb(78, 00, 42);
+}
+p {
+  background-color: bisque;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  color: rgb(78, 00, 42);
+}
+
+footer {
+  color: rgb(66, 20, 20);
+  background-color: hsl(74, 76%, 75%);
+}
+
+body {
+  margin-left: 20px;
+}
+body {
+  margin-right: 60px;
+}
+section {
+  margin-top: 30px;
+}
+
+h2,
+h1,
+h3 {
+  letter-spacing: 8px;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+p {
+  border-style: solid;
+  border-color: rgb(222, 219, 135);
+  border-radius: 10px;
+}
+
+p {
+  padding: 10px;
+  text-wrap: balance;
+  line-height: normal;
+}
+
+button {
+  background-color: red;
+  color: bisque;
+  border-radius: 4px;
+  font-family: "Times New Roman", Times, serif;
+}
+button:hover {
+  color: darkviolet;
+}
+strong {
+  color: rgb(78, 00, 42);
+}
+li {
+  color: rgb(78, 00, 42);
+}
+nav ul {
+  background-color: bisque;
+}
+
+nav li {
+  outline: 2px color(red);
+  color: red;
+}
+img {
+  max-width: 100%;
+}
